@@ -1,10 +1,6 @@
 # FogSnitch 👋
 
-Welcome to FogSnitch — we build tools that help team's see the invisible.
-
-We are an infrastructure team solving problems in observability.
-
-## What we’re building
+We build tools that help team's see the invisible.
 
 Our tool monitors your cloud to know if it has gone down.
 
