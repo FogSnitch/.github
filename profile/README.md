@@ -1,12 +1,19 @@
-## Hi there 👋
+# FogSnitch 👋
 
-<!--
+Welcome to FogSnitch — we build tools that help team's see the invisible.
 
-**Here are some ideas to get you started:**
+We are an infrastructure team solving problems in observability.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## What we’re building
+
+Our tool monitors your cloud to know if it has gone down.
+
+## Our stack
+
+We mostly write Python. Our web stack is Django with classic server-rendered templates (for now), backed by Postgres and Redis. Infra lives in Kubernetes and we manage it using Pulumi and Terraform. We deploy with GitHub Actions, and we believe in boring, battle-tested tools — unless there's a good reason not to be.
+
+We’re a small team, so you’ll have a big footprint. You’ll own features end-to-end and help shape our platform from the ground up.
+
+## Interested?
+
+Check out our [careers page](https://fogsnitch.com/careers) to learn more.
